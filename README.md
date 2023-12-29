@@ -1,4 +1,4 @@
-# [Your Full Name]'s Portfolio
+# [MY] Portfolio
 
 ## About Me
 I am a B.Tech student pursuing Artificial Intelligence and Data Science at Sri Manakula Vinayagar Engineering College, Puducherry. As a dedicated student, I am passionate about AI & ML and Computer Vision. With a solid foundation in algorithms and neural networks, my hands-on projects reflect technical proficiency and creative problem-solving. Fueled by a genuine excitement for innovation, I aim to contribute to the development of intelligent systems for positive societal impact. Eager to collaborate and explore endless possibilities in AI.
